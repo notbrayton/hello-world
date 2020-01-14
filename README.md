@@ -1,2 +1,2 @@
-# first-steps
+# hello-world
 First Repository
